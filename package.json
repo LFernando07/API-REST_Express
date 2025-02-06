@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.21.2",
+    "zod": "3.24.1"
+  },
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "API REST with express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LFernando07/curso_nodejs.git"
+  },
+  "keywords": [
+    "api_rest",
+    "nodejs",
+    "expressjs",
+    "LFernando07"
+  ],
+  "author": "Burgos Perea Luis Fernando - Sock377",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LFernando07/curso_nodejs/issues"
+  },
+  "homepage": "https://github.com/LFernando07/curso_nodejs#readme"
+}
